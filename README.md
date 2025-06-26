@@ -31,7 +31,7 @@
 </picture> -->
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/line.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -43,6 +43,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynccchen&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
+    </td>
 </table>
 
 
