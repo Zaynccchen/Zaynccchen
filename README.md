@@ -94,8 +94,7 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/line.gif" />
 
-![Alt](https://repobeats.axiom.co/api/embed/99effce529ae32271bee56287f234f48f631647d.svg "Repobeats analytics image")
-
+![Alt](https://repobeats.axiom.co/api/embed/07fc72ba4db4e3c444f947e7ff9d31b58fab3d23.svg "Repobeats analytics image")
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/line.gif" />
