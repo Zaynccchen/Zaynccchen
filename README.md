@@ -3,8 +3,9 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   <!-- dynamic typing effect 动态打字效果 --><h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=35&letterSpacing=1px&pause=1000&color=A0D9F7&center=true&vCenter=true&width=435&lines=%E4%B8%80%E6%9C%9D%E7%9B%B8%E9%81%87;%E4%BE%BF%E8%83%9C%E5%8D%B4%E4%BA%BA%E9%97%B4%E6%97%A0%E6%95%B0" alt="Typing SVG" /></a> </h1>
-  <table>
-  
+</div>
+
+<table>
 <tr><td>
 
 ### 🤺 About Me
@@ -13,7 +14,7 @@
 <p>&emsp;&emsp;专注于企业级应用开发，熟练掌握Spring Boot、Spring Cloud、MyBatis等主流框架，具备微服务架构设计和开发经验。</p>
 <p>&emsp;&emsp;正在学习区块链技术、智能合约开发以及云原生架构，包括Docker、Kubernetes等云平台技术。</p>
 <p>&emsp;&emsp;热爱技术，善于解决复杂问题，注重代码质量，追求优雅的架构设计。</p>
-<p align="center"><strong>热爱可抵岁月漫长可平山海跌宕</strong></p>
+<p>&emsp;&emsp;<strong>热爱可抵岁月漫长可平山海跌宕</strong></p>
 <!-- 暂时关闭-->
 
 <!-- ### 📊 WakaTime
@@ -42,10 +43,6 @@
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaynccchen&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaynccchen&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
-  </tr>
     </td>
+  </tr>
 </table>
-
-
-
-</div>
