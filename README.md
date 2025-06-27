@@ -18,9 +18,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture> -->
 
 </div>
@@ -76,14 +76,14 @@
 </div>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/github.webp">
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <!-- <picture>
@@ -100,6 +100,6 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/line.gif" />
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/Zaynccchen/Zaynccchen/assets/images/icon.png" /></div>
 </div>
 
