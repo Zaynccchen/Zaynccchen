@@ -29,9 +29,8 @@
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,py,go,maven,mysql,redis,spring,html,css,js,ts,md,regex,linux&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaynccchen&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=技术无涯，行者无疆&fontSize=60&fontAlign=50&fontAlignY=70&desc=热爱技术，持续成长&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
